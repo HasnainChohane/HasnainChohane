@@ -1,6 +1,6 @@
 
 
-###<h1 align="center">Hi  I'm Hasnain Chohan </h1>
+   <h1 align="center">Hi  I'm Hasnain Chohan </h1>
 <h3 align="center">Software Engineer and passionate/craze of tech</h3>
 
 -  I’m currently working on [Database](https://github.com/HasnainChohane/Airline-Reservation-Management-System-db-basic)
