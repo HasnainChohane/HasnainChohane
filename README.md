@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi  My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -46,18 +46,18 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
-###<h1 align="center">Hi 👋, I'm HasnainChohane</h1>
+###<h1 align="center">Hi  I'm Hasnain Chohan </h1>
 <h3 align="center">Software Engineer and passionate/craze of tech</h3>
 
-- 🔭 I’m currently working on [Database](https://github.com/HasnainChohane/Airline-Reservation-Management-System-db-basic)
+-  I’m currently working on [Database](https://github.com/HasnainChohane/Airline-Reservation-Management-System-db-basic)
 
-- 🌱 I’m currently learning **React appliaction& AI/ML**
+-  I’m currently learning **React appliaction& AI/ML**
 
-- 👯 I’m looking to collaborate on [React- Native app development](https://github.com/HasnainChohane/Shope-mangement-DBS-)
+-  I’m looking to collaborate on [React- Native app development](https://github.com/HasnainChohane/Shope-mangement-DBS-)
 
-- 🤝 I’m looking for help with **Mobile application**
+-  I’m looking for help with **Mobile application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HasnainChohane?tab=overview&from=2026-06-01&to=2026-06-05](https://github.com/HasnainChohane?tab=overview&from=2026-06-01&to=2026-06-05)
+-  All of my projects are available at [https://github.com/HasnainChohane?tab=overview&from=2026-06-01&to=2026-06-05](https://github.com/HasnainChohane?tab=overview&from=2026-06-01&to=2026-06-05)
 
 - 📫 How to reach me **hasnainchohane@gmail.com**
 
