@@ -1,18 +1,103 @@
+# Hi there, I'm Muhammad Hasnain Maqsood 👋
+### 🚀 Full-Stack & Mobile Developer | Data Science Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hasnain-maqsood-a88a80390?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnainchohane@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HasnainChohane&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=HasnainChohane&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HasnainChohane&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HasnainChohane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+A results-driven developer passionate about crafting pixel-perfect user interfaces, robust backend APIs, and data-driven solutions. I love turning complex problems into clean, scalable code.
 
 ---
-[![](https://komarev.com/ghpvc/?username=HasnainChohane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ Quick Stats
+
+- 🔭 **Current Focus:** Advanced Full-Stack Systems & Mobile Architecture
+- 💼 **Open to:** Freelance projects, collaborative open-source, and full-time remote roles
+- 🌱 **Learning & Researching:** Next-generation Cloud Architectures and Predictive Analytics
+- 💬 **Ask me about:** React Native, Node.js, and Database Engineering
+
+---
+
+### 🌐 Connect with me:
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:hasnainchohane@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+#### 🚀 Frontend & Mobile Development
+![HTML5](https://shields.io)
+![JavaScript](https://shields.io)
+![React Native](https://shields.io)
+![Figma](https://shields.io)
+
+#### ⚙️ Backend & Databases
+![C++](https://shields.io)
+![NodeJS](https://shields.io)
+![Express.js](https://shields.io)
+![MySQL](https://shields.io)
+![Postgres](https://shields.io)
+![Supabase](https://shields.io)
+
+#### 📊 Data Science & Analytics
+![Python](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![Plotly](https://shields.io)
+![Matplotlib](https://shields.io)
+
+#### 🛠️ Tools & DevOps
+![GitHub](https://shields.io)
+![Postman](https://shields.io)
+
+---
+
+### 📂 Featured Open-Source Projects
+
+<!-- Replace the project names, summaries, and links below with your top repositories -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h5>🔗 <a href="https://github.com"><b>Awesome Project One</b></a></h5>
+      <p>A cross-platform mobile application engineered with React Native and Supabase for seamless asynchronous data caching.</p>
+      <p>🧬 <code>React Native</code> <code>Supabase</code> <code>Node.js</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h5>🔗 <a href="https://github.com"><b>Data Analytics Dashboard</b></a></h5>
+      <p>An interactive predictive analysis script using Python and Pandas to map data anomalies with custom Matplotlib charts.</p>
+      <p>🐍 <code>Python</code> <code>Pandas</code> <code>Matplotlib</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://shion.dev" alt="Hasnain's GitHub Stats" width="48%" />
+  <img src="https://shion.dev" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://demolab.com" alt="GitHub Streak" width="97%" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Trophies" />
+</p>
+
+### 🎮 Contribution Snake Game
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Contribution Snake" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com" alt="GitHub Card Preview" width="0" />
+  <img src="https://vercel.app" alt="Programming Quotes" width="90%"/>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
